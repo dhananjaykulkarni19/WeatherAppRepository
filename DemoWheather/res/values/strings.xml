@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoWheather</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail_weather_view">DetailWeatherView</string>
+   	<string name="previous">Previous</string>
+   	<string name="next">Next</string>
+   	
+
+</resources>
