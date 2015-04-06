@@ -30,8 +30,8 @@ public class DetailWeatherView extends Activity implements OnClickListener{
 	WeatherDetailsTable detailsTableObject;
 	ArrayList<String> dateList;
 	ImageView btnNext,btnPrevious;
-	TextView lblDayTemp,lblmaxTemp,lblMinTemp,lblNightTemp,lblMornTemp,lblEveTemp,lblPressure,lblHumidity,lblWeather,lblWindSpeed;;
-	TextView tvSelectCity,txtDate,txtDayTemp,txtmaxTemp,txtMinTemp,txtNightTemp,txtMornTemp,txtEveTemp,txtPressure,txtHumidity,txtWeather,txtWindSpeed;;
+	TextView lblDayTemp,lblmaxTemp,lblMinTemp,lblNightTemp,lblMornTemp,lblEveTemp,lblPressure,lblHumidity,lblWeather,lblWindSpeed;
+	TextView tvSelectCity,txtDate,txtDayTemp,txtmaxTemp,txtMinTemp,txtNightTemp,txtMornTemp,txtEveTemp,txtPressure,txtHumidity,txtWeather,txtWindSpeed;
 	int mDateListSize; 
 	int mPlusCounter  = 0;
 	public static char DEGREE =  0x00B0;
