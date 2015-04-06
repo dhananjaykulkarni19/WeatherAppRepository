@@ -37,8 +37,8 @@ public class MainActivity extends Activity implements OnClickListener{
 	public static int NUMBER_OF_DAYS = 14;
 	Dialog PleasWaitDialog;
 	ConnectionDetector connectionDetector;
-	Boolean mIsNetworkAvailable=false;
-	Boolean mIsDataDownloaded = false;
+	boolean mIsNetworkAvailable=false;
+	boolean mIsDataDownloaded = false;
 	
     @Override
     protected void onCreate(Bundle savedInstanceState) {
