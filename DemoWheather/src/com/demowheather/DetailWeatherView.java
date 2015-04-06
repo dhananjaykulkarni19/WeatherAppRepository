@@ -35,7 +35,7 @@ public class DetailWeatherView extends Activity implements OnClickListener{
 	int mDateListSize; 
 	int mPlusCounter  = 0;
 	public static char DEGREE =  0x00B0;
-	Boolean isListEnd = false;
+	boolean isListEnd = false;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) 
